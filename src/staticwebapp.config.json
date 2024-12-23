@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/routeTypedIntoBrowser",
+            "redirect": "/redirectToMe",
+            "statusCode": 301
+        }
+    ]
+}
