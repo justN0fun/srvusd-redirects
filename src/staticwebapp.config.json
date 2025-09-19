@@ -1,9 +1,9 @@
 {
     "routes": [
         {
-            "route": "/routeTypedIntoBrowser",
-            "redirect": "/redirectToMe",
-            "statusCode": 301
+          "route": "/redirecttest/*",
+          "redirect": "https://www.srvusd.net",
+          "statusCode": 301
         }
     ]
 }
