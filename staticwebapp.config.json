@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/*",
+      "route": "/redirecttest/*",
       "redirect": "https://www.srvusd.net",
       "statusCode": 301
     }
