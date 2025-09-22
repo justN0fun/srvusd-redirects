@@ -2,7 +2,7 @@
     "routes": [
         {
           "route": "/redirecttest/*",
-          "redirect": "https://www.srvusd.net",
+          "redirect": "https://www.google.com",
           "statusCode": 301
         }
     ]
